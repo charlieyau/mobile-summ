@@ -1,8 +1,9 @@
-fasthtml
+python-fasthtml
 pillow
 pytesseract
 PyPDF2
 python-pptx
 openai
 httpx
+
 edge-tts
