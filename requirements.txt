@@ -5,5 +5,6 @@ PyPDF2
 python-pptx
 openai
 httpx
-
+gunicorn
 edge-tts
+
